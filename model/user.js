@@ -16,6 +16,8 @@ const userSchema = new mongoose.Schema({
     },
     password: {
         type: String
+        //bro datatype changed gara
+       
     }
 });
 
